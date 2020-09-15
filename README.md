@@ -1,0 +1,1 @@
+This application is a real time chat app developed using ruby on rails. It includes the concepts of ActionCable and web sockets in it
